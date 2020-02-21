@@ -23,6 +23,7 @@ def readFromComPort(ComPort, #port from which data is read
 def writeDataToPort(data):#, port):
     print(data.encode('utf-8'))
 
+
 for i in range(10):
     writeDataToPort(str(i))
 #    print(readFromComPort(s, b'>', b'<'))
