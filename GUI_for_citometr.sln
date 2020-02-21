@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GUI_for_citometr", "GUI_for_citometr\GUI_for_citometr.pyproj", "{E3126DB3-D516-427A-8468-7B77B08A0742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3126DB3-D516-427A-8468-7B77B08A0742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3126DB3-D516-427A-8468-7B77B08A0742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1016AD54-C621-46D2-9590-ABA1E8F80125}
+	EndGlobalSection
+EndGlobal
